@@ -1,0 +1,11 @@
+{
+    "DB_HOST":"127.0.0.1",
+    "CONNECTION_LIMIT" : 100,
+    "DB_USER": "root",
+    "DB_PASSWORD": "",
+    "DATABASE": "login",
+    "TOKEN_KEY":"TOKEN_SECRET",
+    "SERVICE":"gmail",
+    "MAIL_ID":"",
+    "MAIL_PASSWORD":""
+}
